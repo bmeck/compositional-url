@@ -3,7 +3,7 @@ A URL library written to abstract protocol and non-protocol (base) URLs in a gen
 Resolution table
 
 |Start URL Type|Resolution URL Type|Result Type|
-|-|-|-|
+|---|---|---|
 |Protocol|Protocol Relative|Protocol|
 |Protocol Relative|Protocol|Protocol|
 |Base|Protocol|ERROR|
